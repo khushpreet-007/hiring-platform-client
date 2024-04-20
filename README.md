@@ -3,7 +3,8 @@ Step to use Platform
 Server Link: https://github.com/khushpreet-007/hiring-platform-server
 Client Link: https://github.com/khushpreet-007/hiring-platform-client
 
-Step 1: Use the following command to run open the project in local host 
+Step 1: 
+Use the following command to run open the project in local host 
 First install Node modules in both server and client
 Server : npm start
 Client : npm start
