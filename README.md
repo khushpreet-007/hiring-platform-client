@@ -3,7 +3,7 @@ Step to use Platform
 * Server Link: https://github.com/khushpreet-007/hiring-platform-server
 * Client Link: https://github.com/khushpreet-007/hiring-platform-client
 
-Step 1: 
+**Step 1**: 
 * Use the following command to run open the project in local host 
 * First install Node modules in both server and client
 * Server : npm start
@@ -52,7 +52,7 @@ Step 1:
 ![image](https://github.com/khushpreet-007/hiring-platform-client/assets/75271300/4be01da1-52bd-4e85-bf8d-67a6f12627a9)
 
 
-Step 3: Organiser host contest
+**Step 3**: Organiser host contest
 
 ![image](https://github.com/khushpreet-007/hiring-platform-client/assets/75271300/4d526625-5a25-444d-9c54-3991495958b7)
 
@@ -71,7 +71,7 @@ So, If actual contest in india is at around 2:00 PM then should enter 8:30 PM
 ![image](https://github.com/khushpreet-007/hiring-platform-client/assets/75271300/3881c4d9-707a-4b95-a866-33704de0b021)
 
 
-Step 4: Add Problem details:
+**Step 4**: Add Problem details:
 
 ![image](https://github.com/khushpreet-007/hiring-platform-client/assets/75271300/27acc79e-4025-4619-8c64-4eb3fe623150)
 
@@ -79,7 +79,7 @@ Step 4: Add Problem details:
 
 
 
-Step 5: Candidate Explore Jobs/ Hiring Challenges 
+**Step 5**: Candidate Explore Jobs/ Hiring Challenges 
 
 ![image](https://github.com/khushpreet-007/hiring-platform-client/assets/75271300/4a99661d-9278-4145-b1ac-9fd700360068)
 
@@ -89,7 +89,7 @@ Step 5: Candidate Explore Jobs/ Hiring Challenges
 ![image](https://github.com/khushpreet-007/hiring-platform-client/assets/75271300/c849b832-dcf2-4f55-8624-924f279b4a95)
 
 
-Step 6: 
+**Step 6**: 
 Contestant -1: submit solution to problem:
 ![image](https://github.com/khushpreet-007/hiring-platform-client/assets/75271300/eba7633c-f353-4082-b240-76cf95f00c10)
 
@@ -107,7 +107,7 @@ Contestant -2: submit solution to problem:
 
 
 
-Step 7: Organiser view Rating and send email link to both interviewer and Contestant (who qualify)
+**Step 7**: Organiser view Rating and send email link to both interviewer and Contestant (who qualify)
 
 
 * Email Inbox of candidate
@@ -122,7 +122,7 @@ Step 7: Organiser view Rating and send email link to both interviewer and Contes
 ![image](https://github.com/khushpreet-007/hiring-platform-client/assets/75271300/ebf0cf09-bbaf-49df-abb6-4f3a0af38838)
 
 
-Step 8: Conduct Interview 
+**Step 8**: Conduct Interview 
 
 * Organiser start call and share offer to candidate
 
@@ -150,14 +150,14 @@ Step 8: Conduct Interview
 
 
 
-Step 9: And share the result through email
+**Step 9**: And share the result through email
 
-Step 10:Candidate can Practise Problems
+**Step 10**:Candidate can Practise Problems
 
 ![image](https://github.com/khushpreet-007/hiring-platform-client/assets/75271300/3e03fff6-6ad5-4b59-97e8-d6bda9177595)
 
 
-Step 11: Mark Problem as Favourite
+**Step 11**: Mark Problem as Favourite
 
 ![image](https://github.com/khushpreet-007/hiring-platform-client/assets/75271300/13503568-0e76-4d5a-ba21-82a67cf62f58)
 
@@ -165,18 +165,18 @@ Step 11: Mark Problem as Favourite
 ![image](https://github.com/khushpreet-007/hiring-platform-client/assets/75271300/9aea5d00-7672-4554-8b2d-3246f741f71e)
 
 
-Step 12: Search Contest, Problem, User by Muti-Search Bar
+**Step 12**: Search Contest, Problem, User by Muti-Search Bar
 
 ![image](https://github.com/khushpreet-007/hiring-platform-client/assets/75271300/ca5bb759-7e49-4d09-9547-1838739fae70)
 
 
 
-Step 13: Personalised Message Facility (Notification)
+**Step 13**: Personalised Message Facility (Notification)
 
 ![image](https://github.com/khushpreet-007/hiring-platform-client/assets/75271300/2fbbc170-070b-4094-a8af-c451e3fa6f95)
 
 
-Step 14: Participate in discussion Forum:
+**Step 14**: Participate in discussion Forum:
 
 ![image](https://github.com/khushpreet-007/hiring-platform-client/assets/75271300/cd945db2-023c-4f5c-a779-f01608b63451)
 
