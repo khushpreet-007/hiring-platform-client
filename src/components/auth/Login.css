@@ -1,0 +1,27 @@
+.login-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+  }
+  
+  .alert {
+    width: 100%;
+    text-align: center;
+  }
+  
+  .login-form {
+    width: 300px;
+    margin-top: 20px;
+  }
+  
+  .forgot-password, .new-user {
+    display: block;
+    margin-top: 10px;
+  }
+  
+  .new-user a {
+    font-weight: bold;
+  }
+  
