@@ -4,11 +4,11 @@ Server Link: https://github.com/khushpreet-007/hiring-platform-server
 Client Link: https://github.com/khushpreet-007/hiring-platform-client
 
 Step 1: 
-Use the following command to run open the project in local host 
-First install Node modules in both server and client
-Server : npm start
-Client : npm start
-Open chrome browser and type the following link in the search bar: http://localhost:3000
+* Use the following command to run open the project in local host 
+* First install Node modules in both server and client
+* Server : npm start
+* Client : npm start
+*Open chrome browser and type the following link in the search bar: http://localhost:3000
 
 Step 2:  Create a new account as(Organiser/ Contestant):
 
