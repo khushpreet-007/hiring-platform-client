@@ -106,51 +106,16 @@ Contestant -2: submit solution to problem:
 ![image](https://github.com/khushpreet-007/hiring-platform-client/assets/75271300/1672a184-95d7-43c1-b72a-340f4edbdf19)
 
 
+**Step 7**: Problem Filter
 
-**Step 7**: Organiser view Rating and send email link to both interviewer and Contestant (who qualify)
+![image](https://github.com/khushpreet-007/hiring-platform-client/assets/75271300/6479434a-176a-4271-a24e-8327026d7768)
 
+**Step 8**: Personal Talk
+![image](https://github.com/khushpreet-007/hiring-platform-client/assets/75271300/b31acfe1-804a-4823-9540-b1ed3361470d)
 
-* Email Inbox of candidate
+**Step 9**: Password Recovery
 
-* from: kingage30s@gmail.com
-* to: khushpreets.it.20@nitj.ac.in
-* date: Apr 20, 2024, 12:34 AM
-* subject: Interview Process
-* mailed-by: gmail.com
-* signed-by: gmail.com
-
-![image](https://github.com/khushpreet-007/hiring-platform-client/assets/75271300/ebf0cf09-bbaf-49df-abb6-4f3a0af38838)
-
-
-**Step 8**: Conduct Interview 
-
-* Organiser start call and share offer to candidate
-
-![image](https://github.com/khushpreet-007/hiring-platform-client/assets/75271300/a56c5c86-e527-4457-a34b-b0d31aad3bf0)
-
-
-* Candidate share answer key to interviewer 
-* Once the connection established interviewer can conduct the interview
-
-![image](https://github.com/khushpreet-007/hiring-platform-client/assets/75271300/52a806f1-aa95-4419-be18-2e28a903dcac)
-
-![image](https://github.com/khushpreet-007/hiring-platform-client/assets/75271300/4244d9b7-043f-47bc-9f50-516264ad9d3c)
-
-
-* Feature: Picture in Picture (Allow interview to clearly analyse the candidate by toggle to full screen)
-
-
-![image](https://github.com/khushpreet-007/hiring-platform-client/assets/75271300/d265f991-f1f2-4cde-80a1-759af75c487e)
-
-![image](https://github.com/khushpreet-007/hiring-platform-client/assets/75271300/a4a4480a-f82c-41cd-920f-29e3d51a876f)
-
-* Feature: Control audio, Hangup the interview, Note down the time duration of the interview.
-
-![image](https://github.com/khushpreet-007/hiring-platform-client/assets/75271300/b6e43236-6e79-4d1f-af6b-b7672129fa22)
-
-
-
-**Step 9**: And share the result through email
+![image](https://github.com/khushpreet-007/hiring-platform-client/assets/75271300/3fefdfca-5ab9-4f31-aabd-45f612da3e3d)
 
 **Step 10**:Candidate can Practise Problems
 
@@ -180,5 +145,7 @@ Contestant -2: submit solution to problem:
 
 ![image](https://github.com/khushpreet-007/hiring-platform-client/assets/75271300/cd945db2-023c-4f5c-a779-f01608b63451)
 
+**Step 15**: Multi-language(hindi):
 
+![image](https://github.com/khushpreet-007/hiring-platform-client/assets/75271300/8dfabd9a-b15a-42d4-87bd-49aef812e77a)
 
